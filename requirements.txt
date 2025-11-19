@@ -1,0 +1,5 @@
+Python 3.8+
+langchain
+langchain-ollama
+langchain-chroma
+entence-transformers/all-MiniLM-L6-v2
